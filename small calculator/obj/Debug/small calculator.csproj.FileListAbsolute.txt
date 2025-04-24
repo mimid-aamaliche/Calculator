@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\coding stuff\small calculator\bin\Debug\small calculator.exe.config
+C:\Users\Lenovo\Desktop\coding stuff\small calculator\bin\Debug\small calculator.exe
+C:\Users\Lenovo\Desktop\coding stuff\small calculator\bin\Debug\small calculator.pdb
+C:\Users\Lenovo\Desktop\coding stuff\small calculator\obj\Debug\small calculator.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\coding stuff\small calculator\obj\Debug\small_calculator.Form1.resources
+C:\Users\Lenovo\Desktop\coding stuff\small calculator\obj\Debug\small_calculator.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\coding stuff\small calculator\obj\Debug\small calculator.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\coding stuff\small calculator\obj\Debug\small calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\coding stuff\small calculator\obj\Debug\small calculator.exe
+C:\Users\Lenovo\Desktop\coding stuff\small calculator\obj\Debug\small calculator.pdb
